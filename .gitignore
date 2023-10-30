@@ -10,4 +10,4 @@
 build/**
 lib/cudd/html/**
 lib/cudd/doc/**
-
+./HeLLOCTF_2023_challenge_LL/*
